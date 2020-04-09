@@ -18,3 +18,4 @@
 * https://github.com/antlr/grammars-v4/wiki
 * https://www.irisa.fr/caps/people/hardy/m1comp/doc/lexer.html
 * https://dzone.com/articles/antlr-an-informal-introduction
+* https://dou.ua/lenta/articles/antlr-theory/
